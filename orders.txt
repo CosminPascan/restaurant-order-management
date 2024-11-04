@@ -1,0 +1,9 @@
+apple_pie cheeseburger lemonade,2023-10-01
+cheeseburger apple_pie beer,2023-10-01
+steak salad_caesar espresso,2023-10-01
+salad_caesar steak red_wine,2023-10-02
+salad_caesar cheeseburger beer,2023-10-02
+grilled_salmon salad_caesar,2023-10-03
+cheeseburger french_fries beer,2023-10-03
+grilled_salmon salad_caesar red_wine,2023-10-03
+salad_caesar green_tea,2023-10-03

@@ -1,0 +1,12 @@
+food,salad_caesar,48,starter,150 10 10 5
+food,french_fries,32,starter,300 5 40 15
+food,cheeseburger,70,main_course,550 35 45 25
+food,steak,160,main_course,600 50 5 30
+food,grilled_salmon,140,main_course,450 40 5 20
+food,apple_pie,40,dessert,320 3 45 10
+food,ice_cream,28,dessert,180 3 25 10
+drink,espresso,12,true,50 150
+drink,lemonade,24,true,250 500
+drink,green_tea,16,true,250 500
+drink,red_wine,80,false,150 300 750
+drink,beer,40,false,330 500 1000
